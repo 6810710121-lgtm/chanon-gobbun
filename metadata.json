@@ -1,0 +1,7 @@
+{
+  "name": "ระบบจองกิจกรรมพัฒนานิสิต",
+  "description": "ระบบจัดการและจองกิจกรรมพัฒนานิสิตนอกชั้นเรียน พร้อมระบบตรวจสอบการจองแทน แจ้งเตือนกิจกรรมและที่นั่งว่างแบบเรียลไทม์ พร้อมบันทึกข้อมูลลง Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

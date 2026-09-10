@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Prompt', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kanit', 'Prompt', system-ui, sans-serif;
+}
